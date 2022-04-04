@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Cascadou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cascadou/Cascadou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Bonjour, je suis @Cascadou
+- 👀 Je suis intéressée par les interfaces, le design et les animations
+- 🌱 J'apprends actuellement les languages de programmation suivants : C, C# et C++
