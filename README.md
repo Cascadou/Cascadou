@@ -1,3 +1,3 @@
-- 👋 Bonjour, je suis @Cascadou
+- 👋 Bonjour, je suis Suzy Da Silva
 - 👀 Je suis intéressée par les interfaces, le design et les animations
 - 🌱 J'apprends actuellement les languages de programmation suivants : C, C# et C++
