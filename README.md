@@ -1,4 +1,4 @@
 - 👋 Bonjour, je suis Suzy Da Silva, étudiante en But Informatique
 - 👀 Je suis intéressée par les interfaces, le design et les animations
 - 🌱 J'apprends actuellement les languages de programmation suivants : C, C# et C++
-- 📍 Vous pouvez vous rendre sur mon portfolio pour plus d'information : https://dasilvasuzy.github.io/
+- 📍 Vous pouvez vous rendre sur mon portfolio pour plus d'informations : https://dasilvasuzy.github.io/
